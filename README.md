@@ -19,7 +19,7 @@ This project demonstrates a simple Retrieval-Augmented Generation (RAG) pipeline
 ```bash
 pip install langchain langchain-community chromadb sentence-transformers
 python main.py
-
+```
 ## 📌 Project Explanation
 
 ### What is RAG?
